@@ -45,7 +45,7 @@ print(saprz.introduce())
 <!-- BLOG-POST-LIST:END -->
 ✨ ​**Github Stats&Tech Stack**  
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/saprz">
   <picture>
     <!-- 暗色模式 -->
     <source 
@@ -64,7 +64,7 @@ print(saprz.introduce())
     />
   </picture>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/saprz">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=saprz&layout=donut&theme=neon&langs_count=8&card_width=300"
