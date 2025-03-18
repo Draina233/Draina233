@@ -47,7 +47,7 @@ print(saprz.introduce())
 - [rot-偏移，ascii，md5爆破 - Draina](https://www.cnblogs.com/Draina/p/18667858)
 - [这是base-还原数字查正确码表再解码 - Draina](https://www.cnblogs.com/Draina/p/18662261)
 <!-- BLOG-POST-LIST:END -->
-✨ ​**Github Stats Github状态**  
+✨ ​**Github Stats 我的状态**  
   
 <a href="https://github.com/saprz">
   <picture>
