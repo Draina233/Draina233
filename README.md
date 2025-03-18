@@ -28,7 +28,6 @@
     />
   </picture>
 </a>
-
 <a href="https://github.com/anuraghazra/convoychat">
   <picture>
     <source 
