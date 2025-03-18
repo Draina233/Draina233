@@ -14,6 +14,7 @@ class Draina:
         self.encoded_email = None
         self.school = "XJU(XinJiang University)"
         self.major = "Information Security"
+        self.current_job = "Cryptography-related"
         self.capabilities = [
             "Watching Anime",
             "Taking Long Naps",
@@ -32,7 +33,8 @@ class Draina:
             intro += f"\n- {capability}"
         if hasattr(self, 'email') and self.email:
             intro += f"\nMy email is: {self.email}"
-        intro += f"\nI study at {self.school} since 2020, majoring in {self.major}."
+        intro += f"\nI studied at {self.school} since 2020, majoring in {self.major}.Currently, my job is {self.current_job}."
+        intro += f"\nFeel free to reach out if you'd like to chat or collaborate!."
         return intro
 
 saprz = Draina()
