@@ -12,6 +12,8 @@ class Draina:
         self.version = "v1.0"
         self.language = "zh-CN"
         self.encoded_email = None
+        self.school = "XJU"  # 添加学校信息
+        self.major = "Information Security"  # 添加专业信息
         self.capabilities = [
             "Watching Anime",
             "Taking Long Naps",
@@ -28,8 +30,9 @@ class Draina:
         intro += "\nI am capable of performing the following tasks:"
         for capability in self.capabilities:
             intro += f"\n- {capability}"
-        if self.email:
+        if hasattr(self, 'email') and self.email:
             intro += f"\nMy email is: {self.email}"
+        intro += f"\nI study at {self.school} since 2020, majoring in {self.major}."
         return intro
 
 saprz = Draina()
