@@ -9,5 +9,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-![saprz's GitHub stats](https://github-readme-stats.vercel.app/api?username=saprz&show_icons=true&theme=buefy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saprz&layout=donut-vertical&theme=buefy)
+![saprz's GitHub stats](https://github-readme-stats.vercel.app/api?username=saprz&show_icons=true&theme=buefy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saprz&layout=donut&theme=buefy)
 
