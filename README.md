@@ -12,7 +12,7 @@
   <picture>
     <!-- 暗色模式 -->
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=saprz&theme=tokyonight&card_width=300"
+      srcset="https://github-readme-stats.vercel.app/api?username=saprz&theme=neon&card_width=300"
       media="(prefers-color-scheme: dark)"
     />
     <!-- 亮色模式 -->
@@ -20,7 +20,6 @@
       srcset="https://github-readme-stats.vercel.app/api?username=saprz&theme=buefy&card_width=300"
       media="(prefers-color-scheme: light)"
     />
-    <!-- 默认显示（兼容不支持媒体查询的浏览器） -->
     <img 
       height=200 
       align="center" 
@@ -31,7 +30,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=saprz&layout=compact&theme=tokyonight&langs_count=8&card_width=200"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=saprz&layout=compact&theme=neon&langs_count=8&card_width=200"
       media="(prefers-color-scheme: dark)"
     />
     <source
