@@ -12,8 +12,8 @@ class Draina:
         self.version = "v1.0"
         self.language = "zh-CN"
         self.encoded_email = None
-        self.school = "XJU"  # 添加学校信息
-        self.major = "Information Security"  # 添加专业信息
+        self.school = "XJU(XinJiang University)"
+        self.major = "Information Security"
         self.capabilities = [
             "Watching Anime",
             "Taking Long Naps",
