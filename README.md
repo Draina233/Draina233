@@ -9,5 +9,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<div align="center">![saprz's GitHub stats](https://github-readme-stats.vercel.app/api?username=saprz&show_icons=true&theme=buefy)
+![saprz's GitHub stats](https://github-readme-stats.vercel.app/api?username=saprz&show_icons=true&theme=buefy)
 
