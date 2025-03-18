@@ -1,5 +1,5 @@
 ## Hi there 👋 
-[![Moe Counter](https://count.getloli.com/@saprz?name=saprz&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/saprz)
+[![Moe Counter](https://count.getloli.com/@saprz?name=saprz&theme=booru-lewd&padding=7&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto)](https://github.com/saprz)
   
 🍕 **Who am I**
 ```python
