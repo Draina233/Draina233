@@ -1,4 +1,39 @@
 ## Hi there 👋
+🍕**Who am I**
+```python
+class Draina:
+    def __init__(self):
+        self.name = "Draina"
+        self.version = "v1.0"
+        self.language = "zh-CN"
+        self.encoded_email = None
+        self.capabilities = [
+            "Watching Anime",
+            "Taking Long Naps",
+            "Eating Delicious Food",
+            "Playing Games"
+        ]
+
+    def set_email(self, encoded_email):
+        decoded_email = base64.b64decode(encoded_email).decode('utf-8')
+        self.email = decoded_email
+
+    def introduce(self):
+        intro = f"Hello, I am {self.name}, version {self.version}."
+        intro += "\nI am capable of performing the following tasks:"
+        for capability in self.capabilities:
+            intro += f"\n- {capability}"
+        if self.email:
+            intro += f"\nMy email is: {self.email}"
+        return intro
+
+saprz = Draina()
+encoded_email = "ZHJhaW5hQHFxLmNvbQo="
+saprz.set_email(encoded_email)
+print(saprz.introduce())
+```
+
+  
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [文件转十六进制出现转义字符直接通过ASCII码逐字符展开的问题与修复 - Draina](https://www.cnblogs.com/Draina/p/18740372)
