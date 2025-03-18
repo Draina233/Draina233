@@ -12,18 +12,18 @@
   <picture>
     <!-- 暗色模式 -->
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=saprz&theme=neon&card_width=250"
+      srcset="https://github-readme-stats.vercel.app/api?username=saprz&theme=neon&card_width=300"
       media="(prefers-color-scheme: dark)"
     />
     <!-- 亮色模式 -->
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=saprz&theme=buefy&card_width=250"
+      srcset="https://github-readme-stats.vercel.app/api?username=saprz&theme=buefy&card_width=300"
       media="(prefers-color-scheme: light)"
     />
     <img 
       height=200 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=saprz&theme=buefy&card_width=250"
+      src="https://github-readme-stats.vercel.app/api?username=saprz&theme=buefy&card_width=300"
     />
   </picture>
 </a>
