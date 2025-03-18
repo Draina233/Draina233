@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 
+![](https://komarev.com/ghpvc/?username=saprz)
 🍕 **Who am I**
 ```python
 class Draina:
