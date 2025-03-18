@@ -1,5 +1,6 @@
 ## Hi there 👋 
-![](https://komarev.com/ghpvc/?username=saprz)
+[![Moe Counter](https://count.getloli.com/@saprz?name=saprz&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/saprz)
+  
 🍕 **Who am I**
 ```python
 class Draina:
