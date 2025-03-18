@@ -6,6 +6,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saprz/saprz/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 ![saprz's GitHub stats](https://github-readme-stats.vercel.app/api?username=saprz&show_icons=true&theme=buefy)
 
