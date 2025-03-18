@@ -30,17 +30,17 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=saprz&layout=compact&theme=neon&langs_count=8&card_width=200"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=saprz&layout=donut&theme=neon&langs_count=8&card_width=200"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=saprz&layout=compact&theme=buefy&langs_count=8&card_width=200"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=saprz&layout=donut&theme=buefy&langs_count=8&card_width=200"
       media="(prefers-color-scheme: light)"
     />
     <img 
       height=200 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=saprz&layout=compact&theme=buefy&langs_count=8&card_width=200"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=saprz&layout=donut&theme=buefy&langs_count=8&card_width=200"
     />
   </picture>
 </a>
