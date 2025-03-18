@@ -1,10 +1,10 @@
-## Hi there 👋 
+## Hi there 你终于来了👋 
 
-🎄 **Visitor Count**  
+🎄 **Visitor Count 来访人次**  
 
 [![Moe Counter](https://count.getloli.com/@saprz?name=saprz&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)](https://github.com/saprz)
   
-🍕 **Who am I**
+🍕 **Who am I 我是谁**
 ```python
 class Draina:
     def __init__(self):
@@ -39,7 +39,7 @@ print(saprz.introduce())
 ```
 
   
-📕 &nbsp;**Latest Blog Posts**
+📕 &nbsp;**Latest Blog Posts 最近的博客**
 <!-- BLOG-POST-LIST:START -->
 - [文件转十六进制出现转义字符直接通过ASCII码逐字符展开的问题与修复 - Draina](https://www.cnblogs.com/Draina/p/18740372)
 - [python实现排列组合--itertools - Draina](https://www.cnblogs.com/Draina/p/18668558)
@@ -47,7 +47,7 @@ print(saprz.introduce())
 - [rot-偏移，ascii，md5爆破 - Draina](https://www.cnblogs.com/Draina/p/18667858)
 - [这是base-还原数字查正确码表再解码 - Draina](https://www.cnblogs.com/Draina/p/18662261)
 <!-- BLOG-POST-LIST:END -->
-✨ ​**Github Stats&Tech Stack**  
+✨ ​**Github Stats Github状态**  
   
 <a href="https://github.com/saprz">
   <picture>
