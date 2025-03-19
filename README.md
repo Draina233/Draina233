@@ -31,10 +31,10 @@ class Draina:
         intro += "\nI am capable of performing the following tasks:"
         for capability in self.capabilities:
             intro += f"\n- {capability}"
-        if hasattr(self, 'email') and self.email:
-            intro += f"\nMy email is: {self.email}"
         intro += f"\nI studied at {self.school} since 2020, majoring in {self.major}.Currently, my job is {self.current_job}."
         intro += f"\nFeel free to reach out if you'd like to chat or collaborate!."
+        if hasattr(self, 'email') and self.email:
+            intro += f"\nMy email is: {self.email}"
         return intro
 
 Draina233 = Draina()
