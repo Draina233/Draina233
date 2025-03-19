@@ -9,7 +9,7 @@
 class Draina:
     def __init__(self):
         self.name = "Draina"
-        self.version = "v1.0"
+        self.version = "v2002.4"
         self.language = "zh-CN"
         self.encoded_email = None
         self.school = "XJU(XinJiang University)"
