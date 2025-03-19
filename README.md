@@ -4,7 +4,7 @@
 
 [![Moe Counter](https://count.getloli.com/@saprz?name=saprz&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)](https://github.com/Draina233)
   
-🍕 **Who am I 我是谁**
+🍕 **About Me 我是谁**
 ```python
 class Draina:
     def __init__(self):
