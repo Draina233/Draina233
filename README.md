@@ -46,7 +46,7 @@ print(Draina233.introduce())
   
 📕 &nbsp;**Latest Blog Posts 最近的博客**
 <!-- BLOG-POST-LIST:START -->
-- [使用命令行控制wireshark对抓包文件进行针对性处理的命令总结 - Draina](https://www.cnblogs.com/Draina/p/18784550)
+- [使用命令行工具控制wireshark对抓包文件进行针对性处理的总结 - Draina](https://www.cnblogs.com/Draina/p/18784550)
 - [文件转十六进制出现转义字符直接通过ASCII码逐字符展开的问题与修复 - Draina](https://www.cnblogs.com/Draina/p/18740372)
 - [python实现排列组合--itertools - Draina](https://www.cnblogs.com/Draina/p/18668558)
 - [B@se-还原错误字母表转码的base64编码 - Draina](https://www.cnblogs.com/Draina/p/18668219)
